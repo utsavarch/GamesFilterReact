@@ -6,23 +6,23 @@ function App() {
   const [searchInput, setSearchInput] = useState("");
 
   const games = [
-    { name: "GTA VI", src: "src/img/GTA VI.png" },
-    { name: "Fifa 25", src: "src/img/fifa.png" },
-    { name: "God of War", src: "src/img/God of War.png" },
-    { name: "Suicide Squad", src: "src/img/sucide squad.png" },
-    { name: "Witcher III", src: "src/img/Witcher.png" },
-    { name: "Valorant", src: "src/img/Valorant.png" },
-    { name: "NBA 2k25", src: "src/img/NBA2k25.png" },
-    { name: "UFC 5", src: "src/img/ufc.png" },
-    { name: "RDR2", src: "src/img/RDR2.png" },
-    { name: "Black Myth", src: "src/img/black myth.png" },
-    { name: "Indiana Jones", src: "src/img/indiana jones.png" },
-    { name: "Super Mario", src: "src/img/Super Mario.png" },
-    { name: "Uncharted 4", src: "src/img/uncharted.png" },
-    { name: "Last of Us", src: "src/img/last of us.png" },
+    { name: "GTA VI", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/GTA%20VI.png?raw=true" },
+    { name: "Fifa 25", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/fifa.png?raw=true" },
+    { name: "God of War", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/God%20of%20War.png?raw=true" },
+    { name: "Suicide Squad", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/sucide%20squad.png?raw=true" },
+    { name: "Witcher III", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/Witcher.png?raw=true" },
+    { name: "Valorant", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/Valorant.png?raw=true" },
+    { name: "NBA 2k25", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/NBA2k25.png?raw=true" },
+    { name: "UFC 5", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/ufc.png?raw=true" },
+    { name: "RDR2", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/RDR2.png?raw=true" },
+    { name: "Black Myth", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/black%20myth.png?raw=true" },
+    { name: "Indiana Jones", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/indiana%20jones.png?raw=true" },
+    { name: "Super Mario", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/Super%20Mario.png?raw=true" },
+    { name: "Uncharted 4", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/uncharted.png?raw=true" },
+    { name: "Last of Us", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/last%20of%20us.png?raw=true" },
     {
       name: "GOG",
-      src: "src/img/Guardians of the Galaxy.png",
+      src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/Guardians%20of%20the%20Galaxy.png?raw=true",
     },
   ];
 
