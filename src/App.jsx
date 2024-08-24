@@ -6,7 +6,7 @@ function App() {
   const [searchInput, setSearchInput] = useState("");
 
   const games = [
-    { name: "GTA VI", src: "./src/img/GTA VI.png" },
+    { name: "GTA VI", src: "https://github.com/utsavarch/GamesFilterReact/blob/main/src/img/GTA%20VI.png?raw=true" },
     { name: "Fifa 25", src: "./src/img/fifa.png" },
     { name: "God of War", src: "./src/img/God of War.png" },
     { name: "Suicide Squad", src: "./src/img/sucide squad.png" },
